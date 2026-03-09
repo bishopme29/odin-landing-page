@@ -19,3 +19,9 @@ Added and title for the sectiona along with four blue boxes with some text cente
 Pushed to github.
 
 Third Section:
+Added quate section with the author.
+
+pushed to github
+
+Last section:
+
