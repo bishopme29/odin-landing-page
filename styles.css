@@ -14,6 +14,7 @@ body {
     background-color: #1f2937;
 }
 
+/* Header and NavBar */
 #header-logo {
     font-size: 24px;
     color: #f9faf8;
@@ -42,6 +43,7 @@ ul {
     align-items: center;
 }
 
+/* First Section */
 h1 {
     font-size: 48px;
     font-weight: bolder;
@@ -92,6 +94,7 @@ img {
     border-radius: 5px;
 }
 
+/* Second Section */
 h2 {
     font-size: 36px;
     font-weight: bolder;
@@ -128,6 +131,7 @@ h2 {
     text-align: center;
 }
 
+/* Third Section */
 .third-section {
     background-color: #e5e7eb;
     display: flex;
@@ -155,4 +159,48 @@ h2 {
     text-align: right;
     /* pushes Thor's name to the right */
     font-size: 18px;
+}
+
+/* Last Section */
+.last-section {
+    display: flex;
+    justify-content: center;
+    /* centers the blue box horizontally */
+    align-items: center;
+    /* centers vertically if section has height */
+    height: 300px;
+    /* adjust as needed */
+}
+
+.blue-container {
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* vertical centering of text + button */
+    padding: 20px 40px;
+    width: 900px;
+    border-radius: 8px;
+}
+
+.left h4 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.left p {
+    font-size: 18px;
+    margin: 0;
+}
+
+.btn-last-div {
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px solid white;
+    /* typical Odin style */
+    border-radius: 5px;
+    margin: 10px;
 }

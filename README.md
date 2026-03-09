@@ -24,4 +24,4 @@ Added quate section with the author.
 pushed to github
 
 Last section:
-
+I completed the last section based on the instructions and directions given.
