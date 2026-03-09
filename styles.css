@@ -1,0 +1,94 @@
+@import: url('https: //fonts.google.com/share?selection.family=Roboto+Slab:wght@100..900')
+
+    /* Reset */
+    * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto-Slab', serif;
+}
+
+.first-section {
+    background-color: #1f2937;
+}
+
+#header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.header-link {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-left,
+.navbar-right {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    width: 300px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    border: 2px solid white;
+}
+
+.content-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 50%;
+}
+
+.content-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 17%;
+    margin-bottom: 10vh;
+    width: 50%;
+}
+
+img {
+    margin: 5vh auto;
+    margin-right: 40%;
+    width: 80%;
+}
+
+.p-first {
+    width: 300px;
+}
+
+.sign-up-first-section {
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px solid #3882f6;
+    border-radius: 5px;
+}
