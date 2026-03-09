@@ -127,3 +127,32 @@ h2 {
     width: 150px;
     text-align: center;
 }
+
+.third-section {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* vertical centering */
+    align-items: center;
+    /* horizontal centering */
+    height: 400px;
+    /* or whatever height your section is */
+}
+
+.third-section h3 {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 300;
+    width: 750px;
+    text-align: justify;
+    /* optional, often used for quotes */
+}
+
+.p-third {
+    width: 750px;
+    text-align: right;
+    /* pushes Thor's name to the right */
+    font-size: 18px;
+}
