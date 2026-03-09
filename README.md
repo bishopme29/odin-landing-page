@@ -14,3 +14,8 @@ Pushed to github.
 
 Second Section:
 Removed the border that I used for the identification (personal choice to view what I am moving around) of the first section.
+Added and title for the sectiona along with four blue boxes with some text centered below them.
+
+Pushed to github.
+
+Third Section:
